@@ -197,6 +197,13 @@ li {
   color: #ffffff;
 }
 
+.adr-footer {
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+  color: #ffffff;
+}
+
 .mail-footer {
   font-size: 14px;
   line-height: 24px;
